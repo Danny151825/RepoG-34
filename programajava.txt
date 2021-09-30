@@ -1,1 +1,3 @@
 import java.*
+String nombre;
+int codigo;
